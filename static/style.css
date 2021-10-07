@@ -1,0 +1,8 @@
+
+.image{
+    height: 200px;
+}
+.title{
+    box-shadow: 2px 2px black;
+    max-width: 10%;
+}
